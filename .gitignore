@@ -34,3 +34,5 @@ htmlcov/
 Thumbs.db
 # Local database backup
 backend/skillbridge_backup_before_cleanup.json
+
+skillbridge_ai.dump
